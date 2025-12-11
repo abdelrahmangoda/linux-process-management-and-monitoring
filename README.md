@@ -70,22 +70,4 @@ javac ProcessGUI.java
 java ProcessGUI
 
 
-linux-process-management-and-monitoring/
-│
-├── cpu_hog.c                # CPU-Intensive Process
-├── slow_process.c           # Slow / Idle Process
-├── zombie_process.c         # Zombie Creation
-├── threaded_process.c       # POSIX Threads Example
-│
-├── process_manager.sh       # Bash Script Manager
-│
-├── gui/                      # GUI Visualization Folder
-│   ├── ProcessGUI.java
-│   └── GanttChart.java
-│
-├── screenshots/
-│   ├── gui_screenshot.png
-│   └── monitoring_top.png
-│
-├── README.md
-└── LICENSE
+
